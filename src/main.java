@@ -26,3 +26,6 @@ public class main {
 	
 	
 }
+
+
+////// Good job but try to make displayMessage static
